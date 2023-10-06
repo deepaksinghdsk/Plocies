@@ -1,0 +1,37 @@
+**Privacy Policy for Currency + Calc**
+
+This Privacy Policy governs the manner in which Currency + Calc collects, uses, maintains, and discloses information collected from users (each, a "User") of the Currency + Calc mobile application ("App"). This policy applies to the App and all products and services offered by Currency + Calc.
+
+**Information Collection and Use**
+
+Currency + Calc does not collect any personal information or data from its Users. The App only requires Internet permission to fetch API data for real-time currency conversion and calculation.
+
+**Permissions**
+
+The only permission required by Currency + Calc is access to the Internet. This permission is solely used for fetching API data and is crucial for the proper functioning of the App.
+
+**Non-Personal Identification Information**
+
+Currency + Calc may collect non-personal identification information about Users whenever they interact with the App. Non-personal identification information may include the type of device and technical information about Users' means of connection to the App, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Web Browser Cookies**
+
+The App does not use cookies.
+
+**Changes to this Privacy Policy**
+
+Currency + Calc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your Acceptance of These Terms**
+
+By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use the App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this App, please contact us at:
+
+Deepak Singh
+deepak.skyrockets@gmail.com
+Mohali, Punjab, India
+
+This document was last updated on 6-10-2023.
